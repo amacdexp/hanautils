@@ -1,2 +1,4 @@
 # hanautils
-Hana utiils
+Hana utilities
+
+No warranty given, use or copy as you wish
